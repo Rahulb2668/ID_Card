@@ -7,7 +7,7 @@ import os
 import sys
 import time
 
-
+# The command to test the new git branch
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
